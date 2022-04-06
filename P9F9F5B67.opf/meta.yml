@@ -1,0 +1,174 @@
+id: PC25E392D
+initial_creation_type: input
+source_metadata:
+  title: Root verses of important philosophical treatises
+  parent: 3. Various collections
+  source: https://sakyalibrary.com
+  bases:
+    5a08:
+      title: དགེ་སློང་ཕའི་སོ་སོར་ཐར་པའི་མདོ།
+      author: ''
+      base_file: 5a08.txt
+      order: 1
+    34ef:
+      title: འདུལ་བ་མདོ་རྩ་བ།
+      author: ''
+      base_file: 34ef.txt
+      order: 2
+    9ab6:
+      title: འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ། ཀཱ་རི་ཀཱ་ལྔ་བཅུ།
+      author: ཤཱཀྱ་འོད།
+      base_file: 9ab6.txt
+      order: 3
+    04c3:
+      title: འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ། ཀཱ་རི་ཀཱ་སུམ་ཅུ།
+      author: ''
+      base_file: 04c3.txt
+      order: 4
+    bfed:
+      title: ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ།
+      author: སློབ་དཔོན་དབྱིག་གཉེན།
+      base_file: bfed.txt
+      order: 5
+    57d9:
+      title: ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པ།
+      author: འཕགས་པ་ཐོགས་མེད།
+      base_file: 57d9.txt
+      order: 6
+    fe31:
+      title: དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བ།
+      author: ''
+      base_file: fe31.txt
+      order: 7
+    1cd9:
+      title: དབུ་མ་ལ་འཇུག་པ་ཞེས་བྱ་བ།
+      author: ''
+      base_file: 1cd9.txt
+      order: 8
+    f815:
+      title: ཞིབ་མོ་རྣམ་པར་འཐག་པ་ཞེས་བྱ་བའི་མདོ།
+      author: ''
+      base_file: f815.txt
+      order: 9
+    15ad:
+      title: རིགས་པ་དྲུག་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ།
+      author: ''
+      base_file: 15ad.txt
+      order: 10
+    b1ae:
+      title: རྩོད་པ་བཟློག་པའི་ཚིག་ལེའུར་བྱས་པ།
+      author: ''
+      base_file: b1ae.txt
+      order: 11
+    9a32:
+      title: སྟོང་པ་ཉིད་བདུན་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ།
+      author: ''
+      base_file: 9a32.txt
+      order: 12
+    a27f:
+      title: བསྟན་བཅོས་བཞི་བརྒྱ་པ་ཞེས་བྱ་བའི་ཚིག་ལེའུར་བྱས་པ།
+      author: ''
+      base_file: a27f.txt
+      order: 13
+    51a5:
+      title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+      author: ''
+      base_file: 51a5.txt
+      order: 14
+    7f39:
+      title: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན།
+      author: ''
+      base_file: 7f39.txt
+      order: 15
+    554c:
+      title: ཐེག་པ་ཆེན་པོ་མདོ་སྡེའི་རྒྱན་ཞེས་བྱ་བའི་ཚིག་ལེའུར་བྱས་པ།
+      author: ''
+      base_file: 554c.txt
+      order: 16
+    4a9d:
+      title: དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་ཚིག་ལེའུར་བྱས་པ།
+      author: ''
+      base_file: 4a9d.txt
+      order: 17
+    6d4d:
+      title: ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པ།
+      author: ''
+      base_file: 6d4d.txt
+      order: 18
+    e920:
+      title: ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པའི་ཚིག་ལེའུར་བྱས་པ།
+      author: ''
+      base_file: e920.txt
+      order: 19
+    265b:
+      title: ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས།
+      author: ''
+      base_file: 265b.txt
+      order: 20
+    fb30:
+      title: བཤེས་པའི་སྤྲིང་ཡིག
+      author: ''
+      base_file: fb30.txt
+      order: 21
+    f1c2:
+      title: དབུ་མ་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ།
+      author: ''
+      base_file: f1c2.txt
+      order: 22
+    11f3:
+      title: ཞིབ་མོ་རྣམ་པར་འཐག་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ།
+      author: ''
+      base_file: 11f3.txt
+      order: 23
+    571d:
+      title: སྟོང་པ་ཉིད་བདུན་ཅུ་པའི་འགྲེལ་པ།
+      author: ''
+      base_file: 571d.txt
+      order: 24
+    6b90:
+      title: རྩོད་པ་བཟློག་པའི་འགྲེལ་པ།
+      author: ''
+      base_file: 6b90.txt
+      order: 25
+    d83d:
+      title: རིགས་པ་དྲུག་ཅུ་པའི་འགྲེལ་པ།
+      author: ''
+      base_file: d83d.txt
+      order: 26
+    a2b7:
+      title: ཕྱོགས་ཐམས་ཅད་ལས་རྣམ་པར་རྒྱལ་བ་ཆེན་པོ་འཇམ་མགོན་ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་ཞབས་ཀྱི་གསུང་རབ་གླེགས་བམ་གཉིས་པ་ལས་ཚད་མ་རིགས་པའི་གཏེར་ཞེས་བྱ་བའི་བསྟན་བཅོས།
+      author: ''
+      base_file: a2b7.txt
+      order: 27
+    0eb1:
+      title: སྡོམ་པ་གསུམ་གྱི་རབ་ཏུ་དབྱེ་བ་ཞེས་བྱ་བ།
+      author: ''
+      base_file: 0eb1.txt
+      order: 28
+    46e1:
+      title: སྡོམ་པ་གསུམ་གྱི་རབ་ཏུ་དབྱེ་བའི་ཁ་སྐོང་གཞི་ལམ་འབྲས་གསུམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་འོད་ཀྱི་སྣང་བ་ཞེས་བྱ་བ།
+      author: ''
+      base_file: 46e1.txt
+      order: 29
+    948c:
+      title: ཚད་མ་ཀུན་ལས་བཏུས་པ་ཞེས་བྱ་བའི་མདོ།
+      author: ''
+      base_file: 948c.txt
+      order: 30
+    dc36:
+      title: རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ།
+      author: ''
+      base_file: dc36.txt
+      order: 31
+    fdf5:
+      title: ཚད་མ་རྣམ་པར་ངེས་པ།
+      author: ''
+      base_file: fdf5.txt
+      order: 32
+    bc2e:
+      title: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
+      author: ''
+      base_file: bc2e.txt
+      order: 33
+created_at: '2022-04-06T18:02:08.520934'
+last_modified_at: '2022-04-06T18:02:08.520946'
